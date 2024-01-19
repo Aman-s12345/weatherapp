@@ -1,4 +1,4 @@
-# Weatherapp
+# Weather App
 # Search Weather Of Any Location
 :rocket: [Link to website][https://weatherapp-iota-self.vercel.app/]
 
