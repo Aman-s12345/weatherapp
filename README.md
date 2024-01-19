@@ -1,5 +1,5 @@
-# weatherapp
-# StudyNotion - EdTech Platform
+# Weatherapp
+# Search Weather Of Any Location
 :rocket: [Link to website][https://studynotion-frontend.vercel.app/]
 
 
